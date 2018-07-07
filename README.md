@@ -1,2 +1,13 @@
-# portfolio
-What I've done so far
+# Portfolio
+
+Dear Recruiters,
+
+You might have noticed the cobwebs and the tumbleweeds. Indeed, my GitHub is quite empty. I've only used it for minor side projects so far as most of my work code is proprietary. It shouldn't matter, though, because according to [this fine blog post](https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/), "my GitHub is *not* my CV".
+
+However, if you must judge or pre-filter me based on past code, please consider the recently open-sourced [OpenStaticAnalyzer](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer) from the University of Szeged, where I am practically the sole author of the whole [metrics calculation library](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/tree/master/lib/limmetrics) and [command line utility](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/tree/master/cl/LIM2Metrics). In addition, I've had substantial parts in complex team efforts like the Language Independent Model conversions, automatic User's Guide generation, Python-based regression testing, as well as many other functionalities that are not yet open.
+
+This already covers familiarity with Java, C++, and Python. I also participated in a Symfony/Doctrine based full stack ERP web project, a Node.JS/Angular based internal accounting solution, and many other miscellaneous tasks. All this on top of my source code pattern and performance related [research](http://doktori.bibl.u-szeged.hu/4095/) (introducing data science and analysis, automation, Excel magic, etc. into the mix) with occasional teaching (Java, C++), mentoring (Programming Basics, Object Oriented Paradigm, Design Patterns), and management (thesis supervision, work coordination). This should give an idea about my experience.
+
+My main criterion for shaping my career is the ability to continue working in a fully remote fashion (as I have since 2014). I'm part of multiple teams for multiple projects in parallel so collaboration is a healthy chunk of my daily routine and I've always felt like physical presence is severely overrated in my line of work. I also firmly believe that the value of my contribution has absolutely nothing to do with where I live. Everything else is largely secondary but if I still have the luxury to choose, I'd very much prefer a position that supports open-source and utilizes my PhD (at least partially).
+
+Hopefully you now have a better understanding of what I can offer, and what I'm looking for. If you think you have something relevant for me, please don't hesitate to contact me at mr@zealot.hu.
